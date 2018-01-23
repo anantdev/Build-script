@@ -113,4 +113,11 @@ else
 fi
 
 }
+My_Sql_Dump
+Check_Out_In_Temp
+Taking_Backup_Of_Dir
+Restarting_Php_App
+Remove_Old_App
+Redis_Check
+
 
